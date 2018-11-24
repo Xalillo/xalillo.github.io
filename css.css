@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;}
+#a{background-color: #98AFC7;color: #FFFFFF;}
+#w{padding: 2%;background-color: #FFFFFF;color: #0000FF;font-size: 250%;}
+#b{color: #98AFC7;}
+#c{text-align: center;padding-top: 1%;}
+#d{text-align: center;padding: 1%;}
+#e{padding: 1%;font-family: serif;}
+#q{text-align: center;font-size: 200%;font-family: sans-serif;font-style: italic;}
+#o{text-align: center;font-family: monospace;font-style: italic;}
+#f{font-size: 300%;padding:1%}
+#g{font-size: 200%;padding:1%}
+#h{font-size: 300%;text-align: center;color:#FFFFFF; padding-bottom: 2%;}
+#n{padding: 2%;text-align: center;background-color: #FFFFFF;margin: 2%;}
+#m{background-color: #FFFFFF;color: #FFFFFF;padding-top: 2%;}
+#s{color:#98AFC7; font-size: 200%;}
+#l{width: 100%;border-color: #FFFFFF;border-style: outset;}
+#v{padding-top: 2%;}
+#p{width: 50%;}
+#k{font-size: 300%;font-style: italic;font-family: serif;text-align: center;}
+#j{font-size: 200%;font-style: italic;font-family: monospace;text-align: center;padding: 3%;}
+#c{text-align: center;font-size: 300%;font-style: italic;font-family: fantasy;}
